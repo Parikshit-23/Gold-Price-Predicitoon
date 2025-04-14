@@ -10,9 +10,9 @@ can make lots of profits. In order to improve the prediction, various
 factors were considered in related literatures, such as :
 
 -> US dollar index (USDX)<br>
--> The Crude oil price (COP)
--> Dow jones industrial average (DJIA)
--> The CPI of us (USCPI)
--> The prices of US Ten Year Bond Future (us10bfp)
--> The Hang Seng index (HIS)
--> The Standard & Poor's 500 index (S&P500), etc.
+-> The Crude oil price (COP)<br>
+-> Dow jones industrial average (DJIA)<br>
+-> The CPI of us (USCPI)<br>
+-> The prices of US Ten Year Bond Future (us10bfp)<br>
+-> The Hang Seng index (HIS)<br>
+-> The Standard & Poor's 500 index (S&P500), etc.<br>
