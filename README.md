@@ -9,7 +9,7 @@ financial world. Even small improvements in predictive performance
 can make lots of profits. In order to improve the prediction, various 
 factors were considered in related literatures, such as :
 
--> US dollar index (USDX)
+-> US dollar index (USDX)<br>
 -> The Crude oil price (COP)
 -> Dow jones industrial average (DJIA)
 -> The CPI of us (USCPI)
